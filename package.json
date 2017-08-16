@@ -1,6 +1,6 @@
 {
   "name": "state-cities",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Input state name and receive array of city names for that state",
   "main": "index.js",
   "scripts": {
