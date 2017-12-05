@@ -8,6 +8,14 @@ var getCities = function(state){
 	}else{
 		return states[state].cities;
 	}
-}
+};
+
+var getStates = function() {
+  if(states) {
+    return Object.keys(states);
+  } else {
+    return null;
+  }
+};
 
 exports.getCities = getCities;
