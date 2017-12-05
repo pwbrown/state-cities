@@ -13,6 +13,9 @@ var stateCities = require('state-cities');
 
 ### Retrieve an array of all city names for a particular state
 ```javascript
+// Get all states
+var states = stateCities.getStates();
+
 // Case insensitive
 var cities = stateCities.getCities("Montana");
 // or 
