@@ -1,6 +1,6 @@
 # State Cities
 --------------
-Get a list of states or give it a U.S. state, and it will give you an array of all the city names in that state
+Get a list of U.S. states or give it a U.S. state, and it will give you an array of all the city names in that state
 
 ## Add it
 
