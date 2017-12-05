@@ -1,6 +1,6 @@
 # State Cities
 --------------
-Get a list of states or give it a U.S. state, and it will give you an array of all the city names in that state
+Get a list of U.S. states or give it a U.S. state, and it will give you an array of all the city names in that state
 
 ## Add it
 
@@ -15,6 +15,7 @@ var stateCities = require('state-cities');
 ```javascript
 // Get all states
 var states = stateCities.getStates();
+```
 
 ### Retrieve an array of all city names for a particular state
 ```javascript
