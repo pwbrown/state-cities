@@ -15,6 +15,7 @@ var stateCities = require('state-cities');
 ```javascript
 // Get all states
 var states = stateCities.getStates();
+```
 
 ### Retrieve an array of all city names for a particular state
 ```javascript
